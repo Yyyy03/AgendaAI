@@ -1,0 +1,5 @@
+{
+  "name": "AgendaAI",
+  "description": "Upload documents to automatically generate detailed meeting agendas, identify stakeholders, and chat with your documents using Gemini AI.",
+  "requestFramePermissions": []
+}
